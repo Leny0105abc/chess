@@ -1,0 +1,142 @@
+Ruy Lopez|Open Games|Intermediate|Use c3 and d4 to build a broad center while the bishop keeps pressure along the queenside diagonal.|Use …b5 for space and time …d5 or …c5 to challenge the center.|Avoid assuming the bishop on b5 already wins the e5-pawn.
+>Closed Variation:e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 d6 c3 O-O h3 Nb8 d4 Nbd7
+>Morphy Defense:e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O h3 Bb7
+>Open Variation:e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Nxe4 d4 b5 Bb3 d5 dxe5 Be6 c3 Bc5 Nbd2 O-O
+>Berlin Defense:e4 e5 Nf3 Nc6 Bb5 Nf6 O-O Nxe4 d4 Nd6 Bxc6 dxc6 dxe5 Nf5 Qxd8+ Kxd8 Nc3 Ke8 h3 h5
+>Exchange Variation:e4 e5 Nf3 Nc6 Bb5 a6 Bxc6 dxc6 O-O f6 d4 exd4 Nxd4 c5 Nb3 Qxd1 Rxd1 Bg4 f3 Be6
+>Marshall Attack:e4 e5 Nf3 Nc6 Bb5 a6 Ba4 Nf6 O-O Be7 Re1 b5 Bb3 O-O c3 d5 exd5 Nxd5 Nxe5 Nxe5 Rxe5 c6 d4 Bd6 Re1 Qh4
+Italian Game|Open Games|Beginner|Develop Bc4 toward f7. Decide between quiet d3 and preparing the central break d4.|Develop quickly and contest d4. In the Two Knights, meet Ng5 by opening the center with …d5.|Before attacking f7, check whether the king is safe and the center can open.
+>Giuoco Piano:e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 d4 exd4 cxd4 Bb4+ Bd2 Bxd2+ Nbxd2 d5 exd5 Nxd5 O-O O-O
+>Giuoco Pianissimo:e4 e5 Nf3 Nc6 Bc4 Bc5 d3 Nf6 O-O d6 c3 O-O Re1 a6 Bb3 Ba7 h3 h6 Nbd2 Re8
+>Evans Gambit:e4 e5 Nf3 Nc6 Bc4 Bc5 b4 Bxb4 c3 Ba5 d4 exd4 O-O d6 cxd4 Bb6 Nc3 Nf6 e5 dxe5
+>Two Knights Defense:e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Na5 Bb5+ c6 dxc6 bxc6 Be2 h6 Nf3 e4 Ne5 Bd6
+>Fried Liver Attack:e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Nxd5 Nxf7 Kxf7 Qf3+ Ke6 Nc3 Nb4 O-O c6 d4 Kd7
+Giuoco Piano|Open Games|Beginner|Play c3 when it supports d4, then recapture in a way that keeps development moving.|Use …Nf6 and central counterplay to prevent White from keeping both central pawns unchallenged.|Check the forcing …Bb4+ after an early central exchange.
+>Classical Center:e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 d4 exd4 cxd4 Bb4+ Bd2 Bxd2+ Nbxd2 d5 exd5 Nxd5 O-O O-O
+>Quiet Center:e4 e5 Nf3 Nc6 Bc4 Bc5 c3 Nf6 d3 d6 O-O O-O
+Giuoco Pianissimo|Open Games|Beginner|Use d3, c3, and Nbd2 to support the center before choosing when to play d4.|Preserve the bishop with …a6 if needed and compare …d5 with slower piece maneuvers.|An early wing pawn advance can leave your king exposed before you have built pressure.
+>Traditional Setup:e4 e5 Nf3 Nc6 Bc4 Bc5 d3 Nf6 O-O d6 c3 O-O Re1 a6 Bb3 Ba7 h3 h6 Nbd2 Re8
+>Reversed Move Order:e4 e5 Nf3 Nc6 Bc4 Bc5 d3 Nf6 c3 d6 Nbd2 O-O
+Two Knights Defense|Open Games|Intermediate|Compare the forcing Ng5 with quiet development after d3. Calculate Black's counterplay before taking on f7.|Use …d5 against Ng5. In the main line, …Na5 gains time against the bishop and leads to active development.|The natural …Nxd5 can allow Nxf7 and a sustained attack.
+>Polerio Defense:e4 e5 Nf3 Nc6 Bc4 Nf6 Ng5 d5 exd5 Na5 Bb5+ c6 dxc6 bxc6 Be2 h6 Nf3 e4 Ne5 Bd6
+>Quiet Variation:e4 e5 Nf3 Nc6 Bc4 Nf6 d3 Bc5 O-O d6
+Scotch Game|Open Games|Intermediate|Open the center with d4 and use rapid development to exploit the resulting space.|Attack the centralized knight and play actively before White can consolidate.|Exchanging on c6 can give Black the bishop pair and a useful center.
+>Classical Variation:e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Bc5 Be3 Qf6 c3 Nge7
+>Schmidt Variation:e4 e5 Nf3 Nc6 d4 exd4 Nxd4 Nf6 Nxc6 bxc6 e5 Qe7
+Four Knights Game|Open Games|Beginner|Use the bishops to set the character of the game after developing both knights.|Maintain central balance, then look for a central break or an active bishop move.|Symmetric development can hide tactics once the center opens.
+>Spanish Variation:e4 e5 Nf3 Nc6 Nc3 Nf6 Bb5 Bb4 O-O O-O d3 d6
+>Scotch Variation:e4 e5 Nf3 Nc6 Nc3 Nf6 d4 exd4 Nxd4 Bb4 Nxc6 bxc6
+Vienna Game|Open Games|Intermediate|Develop Nc3 to support e4 and keep the f-pawn available for a kingside initiative.|Develop with …Nf6 or …Nc6 and hit the center before a kingside attack gathers momentum.|After an early f4, calculate …d5 before assuming a pawn can be kept.
+>Vienna Gambit:e4 e5 Nc3 Nf6 f4 d5 fxe5 Nxe4 Nf3
+>Max Lange Defense:e4 e5 Nc3 Nc6 Bc4 Nf6 d3 Bc5
+King's Gambit|Open Games|Advanced|Offer the f-pawn for central influence and an open f-file. Develop before trying to recover it.|Decide whether to accept, decline with a developing move, or challenge immediately with …d5.|Moving the f-pawn weakens the diagonal to your king. Calculate checks before opening it.
+>King's Gambit Accepted:e4 e5 f4 exf4 Nf3 g5 h4 g4 Ne5
+>King's Gambit Declined:e4 e5 f4 Bc5 Nf3 d6 Nc3 Nf6
+>Falkbeer Countergambit:e4 e5 f4 d5 exd5 e4 d3 Nf6
+Danish Gambit|Open Games|Intermediate|Trade queenside pawns for two active bishops and fast access to f7.|Return material when it allows central development or an exchange of queens.|A pawn lead has little value if your king remains in an open center.
+>Accepted:e4 e5 d4 exd4 c3 dxc3 Bc4 cxb2 Bxb2 d5
+>Declined:e4 e5 d4 exd4 c3 d5 exd5 Qxd5 cxd4 Nc6
+Evans Gambit|Open Games|Intermediate|Offer b4 to move the bishop away, gain time with c3, and expand with d4.|Choose whether to accept and where to retreat, then contest d4 before White's attack is established.|When you accept, returning a pawn can be the fastest route to safe development.
+>Accepted:e4 e5 Nf3 Nc6 Bc4 Bc5 b4 Bxb4 c3 Ba5 d4 exd4 O-O d6
+>Declined:e4 e5 Nf3 Nc6 Bc4 Bc5 b4 Bb6 a4 a6
+Bishop's Opening|Open Games|Beginner|Develop Bc4 before committing the g1-knight; choose between a quiet center and f4.|Pressure e4 with …Nf6 and use …c6 or …d5 when the timing works.|An early queen attack can lose time if Black develops with a threat.
+>Berlin Defense:e4 e5 Bc4 Nf6 d3 Nc6 Nf3 Bc5
+>Classical Defense:e4 e5 Bc4 Bc5 d3 Nf6 Nc3 d6
+Sicilian Defense|Semi-Open Games|Advanced|Use d4 to open the center or choose a quieter structure with Nc3 or c3. Plan around Black's central breaks.|Trade the c-pawn for White's d-pawn and use the half-open c-file and central majority for counterplay.|Attack on the wing only after accounting for …d5 and the open c-file.
+>Najdorf Variation:e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 a6 Be3 e5 Nb3 Be6 f3 Be7 Qd2 O-O O-O-O Nbd7
+>Dragon Variation:e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 g6 Be3 Bg7 f3 O-O Qd2 Nc6 Bc4 Bd7 O-O-O Rc8
+>Accelerated Dragon:e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 g6 c4 Bg7 Be3 Nf6 Nc3 O-O
+>Classical Variation:e4 c5 Nf3 d6 d4 cxd4 Nxd4 Nf6 Nc3 Nc6 Bg5 e6 Qd2 Be7 O-O-O O-O
+>Sveshnikov Variation:e4 c5 Nf3 Nc6 d4 cxd4 Nxd4 Nf6 Nc3 e5 Ndb5 d6 Bg5 a6 Na3 b5
+>Alapin Variation:e4 c5 c3 Nf6 e5 Nd5 d4 cxd4 Nf3 Nc6 cxd4
+>Closed Sicilian:e4 c5 Nc3 Nc6 g3 g6 Bg2 Bg7 d3 d6 f4 e6 Nf3 Nge7
+>Smith-Morra Gambit:e4 c5 d4 cxd4 c3 dxc3 Nxc3 Nc6 Nf3 d6 Bc4 e6 O-O Nf6
+French Defense|Semi-Open Games|Intermediate|Use space from e5 or seek piece activity in the Exchange. Protect d4 when it is the base of your chain.|Challenge d4 with …c5 and find a role for the light-squared bishop. Time …f6 against e5.|An attack without support for d4 can allow the entire center to collapse.
+>Advance Variation:e4 e6 d4 d5 e5 c5 c3 Nc6 Nf3 Qb6 a3
+>Exchange Variation:e4 e6 d4 d5 exd5 exd5 Nf3 Nf6 Bd3 Bd6 O-O O-O
+>Winawer Variation:e4 e6 d4 d5 Nc3 Bb4 e5 c5 a3 Bxc3+ bxc3 Ne7 Qg4
+>Tarrasch Variation:e4 e6 d4 d5 Nd2 c5 exd5 exd5 Ngf3 Nc6 Bb5 Bd6
+>Classical Variation:e4 e6 d4 d5 Nc3 Nf6 Bg5 Be7 e5 Nfd7 Bxe7 Qxe7
+Caro-Kann Defense|Semi-Open Games|Intermediate|Use e5 for space or develop actively after exchanging. In the Panov, use the isolated pawn for activity.|Bring the light-squared bishop outside the pawn chain and challenge White's space with …c5.|Watch tempi on the developed bishop after h4 or g4.
+>Classical Variation:e4 c6 d4 d5 Nc3 dxe4 Nxe4 Bf5 Ng3 Bg6 h4 h6 Nf3 Nd7 h5 Bh7 Bd3 Bxd3 Qxd3
+>Advance Variation:e4 c6 d4 d5 e5 Bf5 Nf3 e6 Be2 c5 O-O Nc6
+>Exchange Variation:e4 c6 d4 d5 exd5 cxd5 Bd3 Nc6 c3 Nf6 Bf4
+>Panov-Botvinnik Attack:e4 c6 d4 d5 exd5 cxd5 c4 Nf6 Nc3 e6 Nf3 Bb4
+Scandinavian Defense|Semi-Open Games|Intermediate|Develop with tempo on the queen and claim central space.|After recapturing on d5, retreat the queen safely and build with …c6 and …Bf5 or …Bg4.|Do not spend repeated moves chasing the queen if it draws your pieces away from useful squares.
+>Main Line:e4 d5 exd5 Qxd5 Nc3 Qa5 d4 Nf6 Nf3 c6
+>Modern Variation:e4 d5 exd5 Nf6 d4 Nxd5 Nf3 g6
+Pirc Defense|Semi-Open Games|Advanced|Occupy the center, then pick a development plan that can meet a counterattack on e4.|Fianchetto, castle, and challenge White's center with …e5 or …c5 at the right moment.|A broad center can become a target if you push it without piece support.
+>Austrian Attack:e4 d6 d4 Nf6 Nc3 g6 f4 Bg7 Nf3 O-O
+>Classical System:e4 d6 d4 Nf6 Nc3 g6 Nf3 Bg7 Be2 O-O
+Alekhine Defense|Semi-Open Games|Advanced|Gain space with pawn advances only if you can consolidate and develop.|Provoke a large pawn center, then attack its base and retreat the knight to useful squares.|Counting space as a permanent gain ignores Black's …dxe5 and …c5 breaks.
+>Modern Variation:e4 Nf6 e5 Nd5 d4 d6 Nf3 Bg4 Be2
+>Four Pawns Attack:e4 Nf6 e5 Nd5 d4 d6 c4 Nb6 f4 dxe5 fxe5
+Modern Defense|Semi-Open Games|Advanced|Build a center while keeping the option of Be3, f4, or quieter development.|Use the fianchetto to pressure the center, then break with …c5 or …e5.|Delay central counterplay too long and White can lock in a space advantage.
+>Standard Line:e4 g6 d4 Bg7 Nc3 d6 Be3 c6
+>Three Pawns Attack:e4 g6 d4 Bg7 Nc3 d6 f4 a6
+Queen's Gambit Accepted|Closed Games|Intermediate|Develop and recover c4 while using the center. Consider e4 if Black allows a broad pawn front.|Return the pawn for active development and attack the center with …c5.|Trying to keep c4 with …b5 can create tactical weaknesses on the queenside.
+>Classical Defense:d4 d5 c4 dxc4 Nf3 Nf6 e3 e6 Bxc4 c5 O-O a6
+>Central Variation:d4 d5 c4 dxc4 e4 e5 Nf3 exd4 Bxc4 Nc6
+Queen's Gambit Declined|Closed Games|Intermediate|Develop pressure on d5 or exchange to reach a Carlsbad structure and plan a minority attack.|Develop the kingside, then free the light bishop or time …c5 or …e5.|Playing only waiting moves can leave the light bishop and queenside cramped.
+>Orthodox Defense:d4 d5 c4 e6 Nc3 Nf6 Bg5 Be7 e3 O-O Nf3 Nbd7 Rc1 c6 Bd3 dxc4 Bxc4 Nd5
+>Exchange Variation:d4 d5 c4 e6 Nc3 Nf6 cxd5 exd5 Bg5 c6 e3 Be7 Bd3 O-O Qc2 Nbd7 Nf3 Re8
+>Tarrasch Defense:d4 d5 c4 e6 Nc3 c5 cxd5 exd5 Nf3 Nc6 g3 Nf6 Bg2 Be7 O-O O-O Bg5 Be6
+Slav Defense|Closed Games|Intermediate|Support the center with Nc3 and Nf3. Use a4 when it prevents Black from holding the c4 pawn.|Support d5 with …c6, then develop the light bishop before committing …e6 when possible.|An automatic e3 can lock in White's bishop and give Black time to hold c4.
+>Classical Variation:d4 d5 c4 c6 Nf3 Nf6 Nc3 dxc4 a4 Bf5 e3 e6
+>Exchange Variation:d4 d5 c4 c6 cxd5 cxd5 Nc3 Nf6 Bf4 Nc6
+Semi-Slav Defense|Closed Games|Advanced|Choose between a calmer Meran center and sharp variations after Bg5. Calculate tactics on c4.|Build the c6–d5–e6 triangle, then free it with …c5 or a queenside expansion.|The position can open suddenly after …dxc4, so prepare king safety and forcing replies.
+>Meran Variation:d4 d5 c4 c6 Nf3 Nf6 Nc3 e6 e3 Nbd7 Bd3 dxc4 Bxc4 b5 Bd3 a6
+>Botvinnik Variation:d4 d5 c4 c6 Nf3 Nf6 Nc3 e6 Bg5 dxc4 e4 b5 e5 h6 Bh4 g5 Nxg5 hxg5 Bxg5 Nbd7
+London System|Closed Games|Beginner|Develop Bf4 outside the pawn chain, then support d4 with e3 and often c3.|Challenge d4 with …c5 or use …Qb6 when the bishop has left b2 unguarded.|Playing the same setup blindly can lose b2 or miss an early central break.
+>Classical Setup:d4 d5 Nf3 Nf6 Bf4 c5 e3 Nc6 c3 e6
+>Early Bishop:d4 d5 Bf4 Nf6 e3 c5 c3 Nc6 Nd2
+Colle System|Closed Games|Beginner|Develop Bd3 and prepare the e4 break with Nbd2 and c3. The break gives the c1-bishop a role.|Challenge d4 with …c5 and compare …b6 with immediate central exchanges.|Avoid pushing e4 while the center is under-defended.
+>Colle–Koltanowski:d4 d5 Nf3 Nf6 e3 e6 Bd3 c5 c3 Nc6 Nbd2
+>Colle–Zukertort:d4 Nf6 Nf3 e6 e3 d5 Bd3 c5 b3 Nc6 Bb2
+King's Indian Defense|Indian Defenses|Advanced|Use central space and expand on the queenside if the center locks. Keep watch on your king.|Fianchetto, castle, and strike with …e5 or …c5; in a locked center …f5 can create kingside play.|Thematic pawn storms can fail if the opponent opens a decisive file first.
+>Classical Variation:d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 Nf3 O-O Be2 e5 O-O Nc6 d5 Ne7 Ne1 Nd7 Be3 f5
+>Sämisch Variation:d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 f3 O-O Be3 e5 Nge2 c6 Qd2
+>Fianchetto Variation:d4 Nf6 c4 g6 Nc3 Bg7 Nf3 d6 g3 O-O Bg2 Nbd7 O-O e5 e4 Re8 h3 exd4 Nxd4 Nc5 Re1 a5
+>Four Pawns Attack:d4 Nf6 c4 g6 Nc3 Bg7 e4 d6 f4 O-O Nf3 c5 d5 e6 Be2 exd5 cxd5
+Queen's Indian Defense|Indian Defenses|Advanced|Protect e4 and decide whether to meet …Ba6 with b3 or another defense of c4.|Use the fianchetto bishop to contest e4. …Ba6 can attack c4 directly.|Ignoring c4 after …Ba6 can cost a pawn or force awkward defense.
+>Fianchetto Variation:d4 Nf6 c4 e6 Nf3 b6 g3 Ba6 b3 Bb4+ Bd2 Be7
+>Petrosian Variation:d4 Nf6 c4 e6 Nf3 b6 a3 Bb7 Nc3 d5
+Nimzo-Indian Defense|Indian Defenses|Advanced|Use the bishop pair and center to compensate for structural concessions. Choose how to meet the pin on c3.|Pressure e4 and decide if trading on c3 gives Black useful targets.|Taking on c3 simply because it is available can give White a strong center without a real target.
+>Rubinstein Variation:d4 Nf6 c4 e6 Nc3 Bb4 e3 O-O Bd3 d5 Nf3 c5 O-O
+>Classical Variation:d4 Nf6 c4 e6 Nc3 Bb4 Qc2 O-O a3 Bxc3+ Qxc3
+Grünfeld Defense|Indian Defenses|Advanced|Build the broad pawn center and develop fast enough to keep it.|Concede space to attack d4 with the fianchetto bishop and …c5.|Do not assume that an unchallenged-looking center is safe from …c5 and …Nc6.
+>Exchange Variation:d4 Nf6 c4 g6 Nc3 d5 cxd5 Nxd5 e4 Nxc3 bxc3 Bg7 Bc4 c5 Ne2 Nc6
+>Russian Variation:d4 Nf6 c4 g6 Nc3 d5 Nf3 Bg7 Qb3 dxc4 Qxc4 O-O e4
+Bogo-Indian Defense|Indian Defenses|Intermediate|Meet the bishop check with Bd2 or Nbd2 and build control of e4.|Use …Bb4+ to shape White's development and decide whether to trade or defend the bishop.|Recapturing without considering which piece belongs on d2 can cost tempi.
+>Bd2 Main Line:d4 Nf6 c4 e6 Nf3 Bb4+ Bd2 Qe7 g3 Nc6
+>Nbd2 Line:d4 Nf6 c4 e6 Nf3 Bb4+ Nbd2 O-O e3 d5
+Benoni Defense|Indian Defenses|Advanced|Use the d5 wedge, e4, and a possible e5 break to exploit central space.|Develop Bg7 and seek …b5 or pressure along the e-file. Keep the d6 pawn defended.|A premature central advance can allow tactics against the uncastled king.
+>Modern Main Line:d4 Nf6 c4 c5 d5 e6 Nc3 exd5 cxd5 d6 Nf3 g6 e4 Bg7
+>Fianchetto Variation:d4 Nf6 c4 c5 d5 e6 Nc3 exd5 cxd5 d6 g3 g6 Bg2 Bg7
+Benko Gambit|Indian Defenses|Advanced|Decide whether to keep the pawn or return it to finish development. Contest the a- and b-files.|Trade a pawn for open queenside files, long diagonal pressure, and active rooks.|A static material count misses the difficulty of defending a2 and b2.
+>Accepted:d4 Nf6 c4 c5 d5 b5 cxb5 a6 bxa6 Bxa6 Nc3 d6 e4 Bxf1 Kxf1
+>Declined:d4 Nf6 c4 c5 d5 b5 cxb5 a6 b6 d6 Nc3 g6
+English Opening|Flank Openings|Intermediate|Use c4 to influence d5, then choose a structure based on Black's response.|Use …e5 for a reversed Sicilian or …c5 for symmetry. Fight for the center rather than copying indefinitely.|Ignoring a central break while focusing on flank development can cost space.
+>Reversed Sicilian:c4 e5 Nc3 Nf6 g3 d5 cxd5 Nxd5 Bg2 Nb6
+>Symmetrical Variation:c4 c5 Nc3 Nc6 g3 g6 Bg2 Bg7 Nf3 Nf6
+Réti Opening|Flank Openings|Intermediate|Use Nf3 and c4 to challenge the center from the flank. Keep flexible transpositions open.|Use …d5 and choose whether to advance, defend, or capture on c4 according to development.|Flank play still depends on central control; do not give it up for a routine fianchetto.
+>Advance Variation:Nf3 d5 c4 d4 g3 Nc6 Bg2 e5
+>Accepted Variation:Nf3 d5 c4 dxc4 e3 Nf6 Bxc4 e6
+Bird's Opening|Flank Openings|Advanced|Control e5 with f4 and develop the king's knight. Track the exposed e1–h4 diagonal.|Use …d5 for a reversed Dutch structure or challenge with From's Gambit.|An unprepared kingside pawn push can allow a queen check or an attack on the king.
+>Dutch Setup:f4 d5 Nf3 Nf6 e3 g6 b3 Bg7
+>From's Gambit:f4 e5 fxe5 d6 exd6 Bxd6 Nf3 g5
+King's Indian Attack|Flank Openings|Intermediate|Fianchetto, castle, and prepare e4. Choose e5 only when it supports a specific plan.|Occupy space and contest e4 or expand on the queenside when White attacks on the king's wing.|A memorized setup can miss the right moment to contest the center.
+>Against the French:e4 e6 d3 d5 Nd2 Nf6 Ngf3 c5 g3 Nc6 Bg2 Be7 O-O O-O
+>Flexible Setup:Nf3 d5 g3 Nf6 Bg2 e6 O-O Be7 d3 O-O Nbd2
+Budapest Gambit|Indian Defenses|Intermediate|Use development and central control to decide whether the extra pawn is worth holding.|Recover e5 with piece activity or force concessions with checks on b4.|Clinging to e5 while lagging in development can let Black recover the pawn with an attack.
+>Adler Variation:d4 Nf6 c4 e5 dxe5 Ng4 Nf3 Nc6 Bf4 Bb4+
+>Rubinstein Variation:d4 Nf6 c4 e5 dxe5 Ng4 Bf4 Nc6 Nf3 Bb4+ Nbd2
+Englund Gambit|Closed Games|Intermediate|Accept when you can develop with tempo, then calculate …Qb4+ and the pressure on b2.|Look for active play after the pawn offer and avoid bringing the queen out without a concrete gain.|The familiar …Qb4+ trap relies on cooperative replies and is risky against accurate defense.
+>Accepted:d4 e5 dxe5 Nc6 Nf3 Qe7 Bf4 Qb4+ Bd2
+>Declined:d4 e5 e3 exd4 exd4 Nc6 Nf3 d5
+Blackmar-Diemer Gambit|Closed Games|Advanced|Use the half-open f-file and quick development as compensation for the pawn.|Develop and secure the king; exchange active pieces if it removes the attack.|A premature sacrifice on f7 can lose if the rook and queen have no access.
+>Accepted:d4 d5 e4 dxe4 Nc3 Nf6 f3 exf3 Nxf3 e6 Bf4 Be7
+>Declined:d4 d5 e4 dxe4 Nc3 Nf6 f3 e3 Bxe3
+Philidor Defense|Open Games|Intermediate|Play d4 to open lines while Black's queenside pieces are undeveloped. If the center opens, look for forcing moves against e8.|Support e5 with …d6 and develop your pieces before undertaking a queenside expansion. The Hanham setup reinforces e5 with …Nd7.|In the Opera Game, …b5 left Black's king in the center and allowed Nxb5 to tear open the position.
+>Opera Game:e4 e5 Nf3 d6 d4 Bg4 dxe5 Bxf3 Qxf3 dxe5 Bc4 Nf6 Qb3 Qe7 Nc3 c6 Bg5 b5 Nxb5 cxb5 Bxb5+ Nbd7 O-O-O Rd8 Rxd7 Rxd7 Rd1 Qe6 Bxd7+ Nxd7 Qb8+ Nxb8 Rd8#
+>Hanham Variation:e4 e5 Nf3 d6 d4 Nd7 Nc3 Ngf6 Bc4 Be7 O-O O-O

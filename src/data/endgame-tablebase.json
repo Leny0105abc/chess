@@ -1,0 +1,86 @@
+{
+  "king-and-queen-versus-king": {
+    "category": "win",
+    "after": "loss"
+  },
+  "king-and-rook-versus-king": {
+    "category": "win",
+    "after": "loss"
+  },
+  "two-rooks-versus-king": {
+    "category": "win",
+    "after": "loss"
+  },
+  "basic-pawn-promotion": {
+    "category": "win",
+    "after": "loss"
+  },
+  "opposition": {
+    "category": "win",
+    "after": "loss"
+  },
+  "rule-of-the-square": {
+    "category": "win",
+    "after": "loss"
+  },
+  "king-and-pawn-versus-king": {
+    "category": "win",
+    "after": "loss"
+  },
+  "passed-pawn-techniques": {
+    "category": "win",
+    "after": "loss"
+  },
+  "protected-passed-pawns": {
+    "category": "win",
+    "after": "loss"
+  },
+  "rook-and-pawn-endgames": {
+    "category": "win",
+    "after": "loss"
+  },
+  "bishop-endgames": {
+    "category": "win",
+    "after": "loss"
+  },
+  "knight-endgames": {
+    "category": "win",
+    "after": "loss"
+  },
+  "basic-fortress-concepts": {
+    "category": "draw",
+    "after": "draw"
+  },
+  "lucena-position": {
+    "category": "win",
+    "after": "loss"
+  },
+  "philidor-position": {
+    "category": "draw",
+    "after": "draw"
+  },
+  "vancura-position": {
+    "category": "draw",
+    "after": "draw"
+  },
+  "opposite-colored-bishops": {
+    "category": "draw",
+    "after": "draw"
+  },
+  "queen-versus-pawn": {
+    "category": "win",
+    "after": "loss"
+  },
+  "rook-versus-minor-piece": {
+    "category": "draw",
+    "after": "draw"
+  },
+  "advanced-pawn-races": {
+    "category": "draw",
+    "after": "draw"
+  },
+  "bishop-and-knight-checkmate": {
+    "category": "win",
+    "after": "loss"
+  }
+}
